@@ -1,0 +1,48 @@
+(Please don't delete existing form title and description, just append your info/data under each section.)
+
+
+* Applicant:
+(Org/Project name <http://url.of.the/project/>)
+
+
+
+* Project Info:
+(Brief intro)
+(Project fullname and mission)
+(The relationship to Open Source/Culture/Music (and contribution it's it's a existing project).)
+
+
+
+* Contact:
+(Format: name <email>, <telegram>, <github>, <hangout>, <twitter>, etc)
+(Better to have at least 1 Instant Messanger. Telegram prefered.)
+(can be more than one person)
+
+
+
+* Who I am:
+(Brief intro about who you are)
+(what role in what project/team, responsible for what).
+
+
+
+* Verification:
+(If it's a existing project, please provide a link to a page on project site (or othe possibly method) to verify your identity and proof that you or the contact person can represent the (sub-)project/team.)
+
+
+
+* Resource you need:
+(Please describe and list down "How many, which kind (VM, web hosting, git hosting, mirror service, etc), usage (will it be what kind of function/role) and spec.")
+(Please describe both the Minimal and Desired spec.)
+(For slave mirror service, please also give us the source url, mirror frequecy, and other neccessary info.)
+
+
+
+* Any additional info.
+
+
+
+* Ability to promote OSSPlanet
+As this is a free service for Open Source/Culture/Music without asking almost nothing in return,
+We will be encouraged if you can list as on your project site, or mention us on your news/blog/article.
+And if it's ok for you, please let us know!
