@@ -2,13 +2,15 @@
 
 We are open, we love freedom. Free Hosting for Open Projects. #JustGoOpen
 
-Free Hosting / VPS / Mirror for OpenSource Projects, etc.
+Non-Profit. Free Hosting / VPS / Mirror for OpenSource Projects, etc.
+
+Unlimited __outbound__ traffic.
 
 * Plan started at 2013/6
 * Beta Launch at 2014/6
 * Public announce at 2015/6
 
-## How To Apply
+## Who can Apply
 
 We support Open Projects, which means the project should be Open Source / Audio / Culture or Information Freedom / Education related.
 * The source code or content must be available for public and released under any of open licenses.
@@ -17,6 +19,8 @@ We support Open Projects, which means the project should be Open Source / Audio 
     * Conformant Licenses http://opendefinition.org/licenses/
   * The Open Source Definition https://opensource.org/osd
     * Open Source Licenses https://opensource.org/licenses
+
+## How To Apply
 
 ### 1. Create issue or via Email
 
@@ -53,3 +57,11 @@ For any issues, troubleshooting, helps, please contact us on:
 
 ## Contribute
 
+We need your support!
+
+Non-technical:
+* Promotion: Put a link on your site, mention us in your article or slide. Spread this information to the world, so we can help on boosting more Open-related projects.
+* Donation: Financial, Server, Storage, Network devices, etc.
+
+Technical:
+* Help us fixing and building our site. Issues are in the other repo https://github.com/OSSPlanet/OSSPlanet.github.io/issues
