@@ -1,12 +1,15 @@
 # OSSPlanet
 
-We are open, we love freedom. Free Hosting for Open Projects. #JustGoOpen
+***Just Go Open, I've Got Your Back.***
 
-Non-Profit. Free Hosting / VPS / Mirror for OpenSource Projects, etc.
+OSSPlanet is an OpenSource-friendly Nonprofit Non-governmental project, provides high quality **Free Mirror / Hosting / VPS / Container services for Open Projects**. With **Unlimited Outbound traffic**.
 
-Unlimited __outbound__ traffic.
+We are open, we love freedom. Sponsoring a lot of projects / organizations, and willing to *support yours too*!
 
-* Plan started at 2013/6
+Powered by Ubuntu-TW, NCNU, and BlueT.  **#JustGoOpen**
+
+
+* Since 2013/6
 * Beta Launch at 2014/6
 * Public announce at 2015/6
 
