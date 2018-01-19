@@ -15,7 +15,7 @@
 
 * Contact:
 (Format: name <email>, <telegram>, <github>, <hangout>, <twitter>, etc)
-(Better to have at least 1 Instant Messanger. Telegram prefered.)
+(Better to have at least 1 Instant Messanger. Telegram prefered, as we have official support group here https://telegram.me/ossplanet .)
 (can be more than one person)
 
 
