@@ -15,7 +15,7 @@ _(The relationship to Open Source/Culture/Music (and contribution it's it's a ex
 
 ## Contact
 _(Format: name < email >, < telegram >, < github >, < hangout >, < twitter >, etc)_  
-_(Better to have at least 1 Instant Messanger. Telegram prefered.)_  
+_(Better to have at least 1 Instant Messanger. Telegram prefered as we have official support group here https://telegram.me/ossplanet .)_ 
 _(can be more than one person)_
 
 
